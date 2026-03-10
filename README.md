@@ -11,7 +11,7 @@
 ## Установка
 1. Клонируйте репозиторий:
 
-git clone https://github.com/USERNAME/FractionCalculator.git
+git clone https://github.com/DmitryDorzhievich/FractionCalculator.git
 
 2. Перейдите в папку проекта:
 
