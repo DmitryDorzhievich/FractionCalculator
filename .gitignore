@@ -1,0 +1,16 @@
+# Папки Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Локальные файлы
+*.exe
+*.log
+
+# Изображения и скриншоты (если не хотите хранить в Git)
+# images/
+screenshot.png
